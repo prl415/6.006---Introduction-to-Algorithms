@@ -1,4 +1,0 @@
-- This folder contains solution for theory and coding parts of Problem Set 4
-- In theory part there are questions required to use theoretical information about hashing
-- In coding part rolling hash are implemented in order to find matching subsequences between different DNA samples 
-- On an Apple Macbook Air M1/16 GB/8C - 8G system 4 tests are done in 8.486 seconds

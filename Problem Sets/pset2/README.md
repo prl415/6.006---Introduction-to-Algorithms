@@ -1,4 +1,4 @@
-- This folder contains solution for theoretical and code parts of pset2
+- This folder contains solution for theory and code parts of pset2
 - In code part of the pset a digital circuit simulator are coded by using priority queues (i.e. heaps)
 - On an Apple Macbook Air M1/16 GB/8C - 8G system 5 tests are done in 1.512 seconds
 - In theory part of the pset there are questions about sorting algorithms and heap data structure in general

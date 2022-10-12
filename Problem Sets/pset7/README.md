@@ -1,4 +1,4 @@
 - This folder contains solutions for theory and codind part of Problem Set 7
 - In theory part there are questions that required to know dynamic programming and knapsack (stock purchasing problem)
 - In coding part a content-aware image resizing algorithm known as seam carving are implemented using dynamic programming (https://en.wikipedia.org/wiki/Seam_carving)
-- On an Apple Macbook Air M1/16 GB/8C - 8G system 2 tests are done in 1.357 seconds
+- On an Apple Macbook Air M1/16 GB/8C - 8G system 2 tests are done in 0.806 seconds

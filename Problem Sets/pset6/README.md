@@ -1,5 +1,5 @@
-- This folder contains solution for theory and coding parts of the Problem Set 6
-- In theory part there are questions that required to use BFS, DFS and Topological Sorting
+- This folder contains solution for coding part of the Problem Set 6 (Theory part is completed but it's handwritten, LATEX format will be added in coming days).
+
 - In Code part there two questions:
 
 - In the first coding question a 2x2x2 rubic cube are solved using the algorithm called Bi-directional Search (It's bi-directional BFS actually and really really simple but also clever algorithm in order to reduce traverse time --> https://www.geeksforgeeks.org/bidirectional-search/). The code can solve 2x2x2 rubic whatever the initial state is.
